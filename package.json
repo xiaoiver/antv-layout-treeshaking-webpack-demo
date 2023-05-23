@@ -1,0 +1,19 @@
+{
+  "name": "antv-layout-treeshaking-webpack-demo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@antv/layout": "^0.3.22"
+  },
+  "devDependencies": {
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.2",
+    "webpack-bundle-analyzer": "^4.8.0"
+  }
+}
